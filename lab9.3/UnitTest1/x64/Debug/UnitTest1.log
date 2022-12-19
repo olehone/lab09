@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Дев'ята\code\lab9.3\Source.cpp(327): warning C4715: 'NomerOf': not all control paths return a value
+     Creating library C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Дев'ята\code\lab9.3\x64\Debug\UnitTest1.lib and object C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Дев'ята\code\lab9.3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Дев'ята\code\lab9.3\x64\Debug\UnitTest1.dll
